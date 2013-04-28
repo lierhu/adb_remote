@@ -1,4 +1,3 @@
-
 #include <map>
 #include <cstdio>
 #include <cstdlib>
@@ -26,7 +25,7 @@ int main(void)
 		exit(-1);
 	}
 
-	//turn of echo
+	//turn off echo
 	tcgetattr(0, &init_setting);
 	new_setting = init_setting;
 	new_setting.c_lflag &= ~ECHO;
