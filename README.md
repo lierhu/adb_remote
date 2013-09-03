@@ -22,14 +22,11 @@ x               -- back
 
 =               -- volume up
 
--               -- volume down
+\-               -- volume down
 
 m               -- menu
 
 
-
-/*
- * thanks wendy for sharing information of STL *map* 
- * thanks doyle for testing
- *
-*/
+*  *  *
+* thanks wendy for sharing information of STL __map__
+* thanks doyle for testing
